@@ -4,10 +4,10 @@
      position: fixed;
      display: flex;
      justify-content:center;
-     color:white;
+     color:black;
      font-size: 4.5vh;
      padding-bottom: 15px;
-     box-shadow: 0px 1px 5px black;
+     box-shadow: 0px 1px 4px black;
      font-family: "Montserrat", sans-serif;
      text-transform: uppercase;
      z-index: 100;

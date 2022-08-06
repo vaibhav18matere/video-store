@@ -1,13 +1,6 @@
 .App{
      min-height: 100vh;
      --primary-color: #39445a;
+     --secondary-color: #505f7e;
      background-color: var(--primary-color);
-     padding-top: 120px;
-     padding-bottom: 70px;
-}
-
-@media(max-width: 700px){
-     .App{
-          padding-top: 70px;
-     }
 }
