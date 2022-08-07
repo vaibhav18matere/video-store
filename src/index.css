@@ -8,4 +8,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  --primary-color: #39445a;
+  --secondary-color: #505f7e;
+  background-color: var(--primary-color);
 }

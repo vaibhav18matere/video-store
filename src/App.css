@@ -1,6 +1,3 @@
 .App{
      min-height: 100vh;
-     --primary-color: #39445a;
-     --secondary-color: #505f7e;
-     background-color: var(--primary-color);
 }
