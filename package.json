@@ -2,6 +2,7 @@
   "name": "video-store",
   "version": "1.0.0",
   "description": "a youtube like webapp ",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,5 +15,10 @@
     "javascript"
   ],
   "author": "Vaibhav Matere",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^16.3.1",
+    "nodemon": "^3.0.2",
+    "prettier": "^3.2.5"
+  }
 }
